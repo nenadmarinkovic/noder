@@ -1,3 +1,3 @@
 # noder
 
-Simple CRUD Node.js, Next.js, Postgres app
+Simple Node.js, Next.js, Postgres CRUD application
