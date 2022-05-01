@@ -29,6 +29,7 @@ function Data({ todo }) {
           {todo.map((todo) => (
             <tr key={todo.todo_id}>
               <td>{todo.description}</td>
+              <td>{todo.todo_id}</td>
               <td>
                 <Edit todo={todo} />
               </td>
